@@ -1,0 +1,18 @@
+Breast Cancer - Moh
+Diabetes - Moh
+Statlog (Credit check) - Yael/Moh
+Thyroid Disease - Yael
+Predict students' dropout and academic success - Yeal
+
+
+No Null values
+
+stings:
+- trim
+
+
+ObjecID & UNIQUE_ID > unique (no duplication)
+
+10 am next meeting July 12
+
+
