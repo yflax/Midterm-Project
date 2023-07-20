@@ -14,9 +14,9 @@ Predict crime type with a classification model and find features of significance
 4. Visualization, create a dashboard using Tableau to present our findings and build the story.
 
 ## Results:
--Random Forest has the best result with 61.9% accuracy.
--Decision Tree comes next with 60% accuracy.
--KNN was last with only 59% accuracy
+- Random Forest has the best result with 61.9% accuracy.
+- Decision Tree comes next with 60% accuracy.
+- KNN was last with only 59% accuracy.
 
 ## Challenges:
 The dataset was too large, and we couldn't apply API to it due to free usage limitation
