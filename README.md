@@ -1,7 +1,7 @@
 # Midterm-Project
 Mohammed A. and Yael F. repository for collaborating on Midterm-Project
 
-Project/Goals
+## Project/Goals
 Implement targeted, data-driven measures to address different crime types when they are likely to occur in Toronto.
 
 Method:
